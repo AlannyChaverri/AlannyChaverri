@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 <br>
 <div align="center" width="50">
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+<img src="[https://i.imgur.com/dTYwdG1.gif](https://www.lavoz.com.ar/resizer/9DvCUG7gefuQi8BuK1Vk2X0oAsA=/1023x323/smart/storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)" alt="Dino!" width="300"/>
 
 </div>
