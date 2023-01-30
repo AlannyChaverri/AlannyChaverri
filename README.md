@@ -149,6 +149,8 @@ Here are some ideas to get you started:
 <h3 align="left">Databases</h3>
 
 <p align="left">
+  
+  
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"
@@ -177,4 +179,6 @@ Here are some ideas to get you started:
       height="40"
     />
   </a>
+  
+  
 </p>
