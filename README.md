@@ -182,3 +182,7 @@ Here are some ideas to get you started:
   
   
 </p>
+
+### My statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?AlannyChaverri= &theme=radical)
