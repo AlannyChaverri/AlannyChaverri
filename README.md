@@ -195,10 +195,11 @@ Here are some ideas to get you started:
 </p>
 
 ### My statistics
-
+<p align="center">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AlannyChaverri&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=AlannyChaverri&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlannyChaverri&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+  </p>
 
 
 
